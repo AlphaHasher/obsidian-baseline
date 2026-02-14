@@ -93,5 +93,12 @@
     "author": "Alexis C",
     "url": "https://github.com/aaaaalexis",
     "description": "Inspired by [Craft Docs](https://www.craft.do/), where elegance meets modern minimalism."
-  }
+  },
+  },
+  "fusion": {
+    "name": "Midnight Blue",
+    "author": "Daniel A",
+    "url": "https://danagafonov.info",
+    "description": "When everyone is asleep, except you"
+  }  
 }
